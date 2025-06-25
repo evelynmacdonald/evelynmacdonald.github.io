@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Evelyn Macdonald
+title: Evelyn Macdonald (she/her)
 logo: website_photo.jpg
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoc, EASE project, University of Vienna Department of Astrophysics
   evelyn.macdonald@univie.ac.at
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
